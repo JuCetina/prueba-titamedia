@@ -14,6 +14,8 @@ https://jucetina.github.io/prueba-titamedia/
 
 * Se utilizó Flexbox para organizar los elementos, Grid para organizar las imágenes.
 
+* Se realizó Responsive Design
+
 ## Autores ✒️
 
 * **Juliette Cetina** - *Ingeniera de Sistemas* - [Portafolio](https://jucetina.github.io/portafolio)
